@@ -13,10 +13,7 @@ h1{
   text-decoration: underline;
 }
 
-.header{
-  background-image: url("./Resources/the-flatiron-building.png");
-}
-
-h2{
-  background-image: url("./Resources/the-flatiron-building.png");
+.header,.design{
+  color: white;
+  background-image: url("/Users/joshuaowen/Documents/A Final Procedure/coding projects/Broadway/Resources/the-flatiron-building.png");
 }
