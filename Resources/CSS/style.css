@@ -6,14 +6,55 @@ body{
 h1{
   font-size: 70px;
   font-weight: bold;
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+  text-decoration:underline;
+  padding: 0;
+  font-size: 18px;
 }
 
 .list{
-  font-size: 18px;
-  text-decoration: underline;
+  color:white;
+}
+
+a{
+  color: white;
 }
 
 .header,.design{
-  color: white;
   background-image: url("/Users/joshuaowen/Documents/A Final Procedure/coding projects/Broadway/Resources/the-flatiron-building.png");
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+  color: black;
+}
+
+.footer{
+    background-color: dimgrey;
+}
+
+#logo{
+  color: white;
+  text-align: left;
+  font-size: 11px;
+}
+
+#btn-nav{
+  text-decoration: underline;
+  font-size: 18px;
+  color: white;
 }
